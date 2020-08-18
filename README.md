@@ -10,3 +10,18 @@
 
 ### Logistic Regression
 
+## Tree Based Models
+
+### Decision Tree
+
+### Random Forest
+
+### Adaptive Boosting
+
+### Gradient Boosting
+
+#### Xgboost
+
+#### LightGBM
+
+## Support Vector Machines
