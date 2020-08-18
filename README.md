@@ -25,3 +25,11 @@
 #### LightGBM
 
 ## Support Vector Machines
+
+## Model Evaluation
+
+### Accuracy
+
+### AUC-ROC
+
+### Precision-Recall-F1
