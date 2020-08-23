@@ -28,6 +28,10 @@
 
 ## Model Evaluation
 
+### MSE / MAE
+
+### R squared
+
 ### Accuracy
 
 ### AUC-ROC
