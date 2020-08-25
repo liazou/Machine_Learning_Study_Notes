@@ -37,3 +37,11 @@
 ### AUC-ROC
 
 ### Precision-Recall-F1
+
+## Hypothesis Testing
+
+### t-test
+
+### F-test
+
+### chi-squared-test
