@@ -34,6 +34,22 @@
 
 ### Accuracy
 
+## Clustering
+
+### K Means
+
+### EM
+
+## Dimension Reduction
+
+### PCA
+
+#### Kernel PCA
+
+#### Sparse PCA
+
+### t-SNE
+
 ### AUC-ROC
 
 ### Precision-Recall-F1
