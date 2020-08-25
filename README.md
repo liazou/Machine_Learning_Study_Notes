@@ -34,6 +34,18 @@
 
 ### Accuracy
 
+### AUC-ROC
+
+### Precision-Recall-F1
+
+## Hypothesis Testing
+
+### t-test
+
+### F-test
+
+### chi-squared-test
+
 ## Clustering
 
 ### K Means
@@ -49,15 +61,3 @@
 #### Sparse PCA
 
 ### t-SNE
-
-### AUC-ROC
-
-### Precision-Recall-F1
-
-## Hypothesis Testing
-
-### t-test
-
-### F-test
-
-### chi-squared-test
