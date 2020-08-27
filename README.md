@@ -26,6 +26,16 @@
 
 ## Support Vector Machines
 
+## Probabilistic Sequential Models
+
+### Naive Bayes
+
+### Hidden Markov Model
+
+### Bayesian Networks
+
+### Conditional Random Field
+
 ## Model Evaluation
 
 ### MSE / MAE
