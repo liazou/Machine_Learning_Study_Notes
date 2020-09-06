@@ -72,7 +72,11 @@
 
 ### t-SNE
 
-## Word Embedding
+## Word Vectors
+
+### n-gram
+
+### TF-IDF
 
 ### Word2Vec
 
