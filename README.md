@@ -71,3 +71,11 @@
 #### Sparse PCA
 
 ### t-SNE
+
+## Word Embedding
+
+### Word2Vec
+
+### GloVe
+
+### FastText
