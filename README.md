@@ -1,85 +1,99 @@
-# Machine Learning Study Notes
+# Linear Models
 
-## Linear Models
+## Linear Regression
 
-### Linear Regression
+## Lasso Regression
 
-### Lasso Regression
+## Ridge Regression
 
-### Ridge Regression
+## Logistic Regression
 
-### Logistic Regression
+# Tree Based Models
 
-## Tree Based Models
+## Decision Tree
 
-### Decision Tree
+## Random Forest
 
-### Random Forest
+## Adaptive Boosting
 
-### Adaptive Boosting
+## Gradient Boosting
 
-### Gradient Boosting
+### Xgboost
 
-#### Xgboost
+### LightGBM
 
-#### LightGBM
+# Support Vector Machines
 
-## Support Vector Machines
+# Probabilistic Sequential Models
 
-## Probabilistic Sequential Models
+## Naive Bayes
 
-### Naive Bayes
+## Hidden Markov Model
 
-### Hidden Markov Model
+## Bayesian Networks
 
-### Bayesian Networks
+## Conditional Random Field
 
-### Conditional Random Field
+# Model Evaluation
 
-## Model Evaluation
+## MSE / MAE
 
-### MSE / MAE
+## R squared
 
-### R squared
+## Accuracy
 
-### Accuracy
+## AUC-ROC
 
-### AUC-ROC
+## Precision-Recall-F1
 
-### Precision-Recall-F1
+# Hypothesis Testing
 
-## Hypothesis Testing
+## t-test
 
-### t-test
+## F-test
 
-### F-test
+## chi-squared-test
 
-### chi-squared-test
+# Clustering
 
-## Clustering
+## K Means
 
-### K Means
+## EM
 
-### EM
+# Dimension Reduction
 
-## Dimension Reduction
+## PCA
 
-### PCA
+### Kernel PCA
 
-#### Kernel PCA
+### Sparse PCA
 
-#### Sparse PCA
+## t-SNE
 
-### t-SNE
+# Word Vectors
 
-## Word Vectors
+## n-gram
 
-### n-gram
+## TF-IDF
 
-### TF-IDF
+## Word2Vec
 
-### Word2Vec
+## GloVe
 
-### GloVe
+## FastText
 
-### FastText
+# RNN
+
+## LSTM
+
+## GRU
+
+# Transformer
+
+## Attention
+
+## Bert
+
+## GPT
+
+## XLNet
