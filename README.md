@@ -92,7 +92,7 @@
 
 ## Attention
 
-## Bert
+## BERT
 
 ## GPT
 
