@@ -24,15 +24,19 @@
 
 # Support Vector Machines
 
-# Probabilistic Sequential Models
+# Sequential Models
 
 ## Naive Bayes
 
 ## Hidden Markov Model
 
+## Conditional Random Field
+
+# Probabilistic Graphical Models
+
 ## Bayesian Networks
 
-## Conditional Random Field
+## Markov Networks
 
 # Model Evaluation
 
