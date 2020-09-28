@@ -38,7 +38,33 @@
 
 ## Markov Networks
 
+## Monte Carlo Simulation
+
+### Univariate Monte Carlo
+
+### Multidimensional Monte Carlo 
+
+### Variance Reduction
+
 ## Markov Chain Monte Carlo
+
+### Gibbs Sampler
+
+### Metropolis Hasting
+
+# Time Series
+
+## AR (Autoregressive)
+
+## MA (Moving Average)
+
+## ARMA
+
+## ARIMA
+
+## ARCH
+
+## GARCH
 
 # Model Evaluation
 
