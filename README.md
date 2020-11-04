@@ -114,6 +114,8 @@
 
 ## t-SNE
 
+## AutoEncoder
+
 # Word Vectors
 
 ## n-gram
