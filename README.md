@@ -24,6 +24,8 @@
 
 # Support Vector Machines
 
+## Factorization Machines
+
 # Sequential Models
 
 ## Naive Bayes
